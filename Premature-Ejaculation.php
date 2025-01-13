@@ -1,5 +1,5 @@
 <?php
-include '../header.php'; // Including header
+include 'includes/header.php'; // Including header
 ?>
 
 
@@ -75,5 +75,5 @@ include '../header.php'; // Including header
   </div>
 </div>
 <?php
-include '../footer.php'; // Including footer
+include 'includes/footer.php'; // Including footer
 ?>

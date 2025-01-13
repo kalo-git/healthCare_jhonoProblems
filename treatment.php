@@ -1,5 +1,4 @@
-<?php
-include 'header.php'; // Including header
+<?php include 'includes/header.php';
 
 ?>
 
@@ -29,7 +28,7 @@ include 'header.php'; // Including header
                             <div class="card-header" id="headingOne">
                                 <h2 class="mb-0">
                                     <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                       <a href="/tree/Erectile-Dysfunction.php">Erectile Dysfunction</a>
+                                       <a href="Erectile-Dysfunction.php">Erectile Dysfunction</a>
                                     </button>
                                 </h2>
                             </div>
@@ -38,7 +37,7 @@ include 'header.php'; // Including header
                             <div class="card-header" id="headingTwo">
                                 <h2 class="mb-0">
                                     <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                      <a href="/tree/Premature-Ejaculation.php">Premature Ejaculation</a>
+                                      <a href="Premature-Ejaculation.php">Premature Ejaculation</a>
                                     </button>
                                 </h2>
                             </div>
@@ -47,7 +46,7 @@ include 'header.php'; // Including header
                             <div class="card-header" id="headingThree">
                                 <h2 class="mb-0">
                                     <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                       <a href="tree\LOW-LIBIDO-MALE.php">Low Libido</a>
+                                       <a href="LOW-LIBIDO-MALE.php">Low Libido</a>
                                     </button>
                                 </h2>
                             </div>
@@ -56,7 +55,7 @@ include 'header.php'; // Including header
                             <div class="card-header" id="headingFour">
                                 <h2 class="mb-0">
                                     <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                    <a href="tree\PENIS-ENLARGEMENT.php">Penis Enlargement</a>
+                                    <a href="PENIS-ENLARGEMENT.php">Penis Enlargement</a>
                                     </button>
                                 </h2>
                             </div>
@@ -65,7 +64,7 @@ include 'header.php'; // Including header
                             <div class="card-header" id="headingFive">
                                 <h2 class="mb-0">
                                     <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                       <a href="tree\Low-Sperm-Count.php">Low Sperm Count</a>
+                                       <a href="Low-Sperm-Count.php">Low Sperm Count</a>
                                     </button>
                                 </h2>
                             </div>
@@ -74,7 +73,7 @@ include 'header.php'; // Including header
                             <div class="card-header" id="headingSix">
                                 <h2 class="mb-0">
                                     <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                                       <a href="tree\NIGHTFALL.php">Night Fall</a> 
+                                       <a href="NIGHTFALL.php">Night Fall</a> 
                                     </button>
                                 </h2>
                             </div>
@@ -83,7 +82,7 @@ include 'header.php'; // Including header
                             <div class="card-header" id="headingSeven">
                                 <h2 class="mb-0">
                                     <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-                                       <a href="tree\DHAT-SEX-PROBLEM.php">Dhat</a>
+                                       <a href="DHAT-SEX-PROBLEM.php">Dhat</a>
                                     </button>
                                 </h2>
                             </div>
@@ -97,7 +96,7 @@ include 'header.php'; // Including header
                             <div class="card-header" id="headingEight">
                                 <h2 class="mb-0">
                                     <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-                                     <a href="tree\WEIGHT-GAIN.php">Weight Gain</a>   
+                                     <a href="WEIGHT-GAIN.php">Weight Gain</a>   
                                     </button>
                                 </h2>
                             </div>
@@ -106,7 +105,7 @@ include 'header.php'; // Including header
                             <div class="card-header" id="headingNine">
                                 <h2 class="mb-0">
                                     <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-                                       <a href="tree\weight-loss.php">Weight Loss</a> 
+                                       <a href="weight-loss.php">Weight Loss</a> 
                                     </button>
                                 </h2>
                             </div>
@@ -120,7 +119,7 @@ include 'header.php'; // Including header
                             <div class="card-header" id="headingTen">
                                 <h2 class="mb-0">
                                     <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
-                                      <a href="tree\DIABETES.php">Diabetes</a>  
+                                      <a href="DIABETES.php">Diabetes</a>  
                                     </button>
                                 </h2>
                             </div>
@@ -134,7 +133,7 @@ include 'header.php'; // Including header
                             <div class="card-header" id="headingEleven">
                                 <h2 class="mb-0">
                                     <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
-                                       <a href="tree\JointPain.php">Joint Pain</a> 
+                                       <a href="JointPain.php">Joint Pain</a> 
                                     </button>
                                 </h2>
                             </div>
@@ -148,7 +147,7 @@ include 'header.php'; // Including header
                             <div class="card-header" id="headingTwelve">
                                 <h2 class="mb-0">
                                     <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
-                                       <a href="tree\LOW-LIBIDO-FEMALE.php">Low Libido</a>
+                                       <a href="LOW-LIBIDO-FEMALE.php">Low Libido</a>
                                     </button>
                                 </h2>
                             </div>
@@ -157,7 +156,7 @@ include 'header.php'; // Including header
                             <div class="card-header" id="headingThirteen">
                                 <h2 class="mb-0">
                                     <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
-                                      <a href="tree\Leukorrhea.php">Leukorrhea</a>
+                                      <a href="Leukorrhea.php">Leukorrhea</a>
                                     </button>
                                 </h2>
                             </div>
@@ -166,7 +165,7 @@ include 'header.php'; // Including header
                             <div class="card-header" id="headingFourteen">
                                 <h2 class="mb-0">
                                     <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">
-                                       <a href="tree\Breast-Enlargement.php">Breast Enlargement</a> 
+                                       <a href="Breast-Enlargement.php">Breast Enlargement</a> 
                                     </button>
                                 </h2>
                             </div>
@@ -181,5 +180,5 @@ include 'header.php'; // Including header
 
 
 <?php
-include 'footer.php'; // Including footer
+include 'includes/footer.php'; // Including footer
 ?>

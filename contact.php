@@ -1,5 +1,5 @@
 <?php
-include 'header.php';
+include 'includes/header.php';
 ?>
 
 
@@ -151,4 +151,4 @@ $pageHeading = "Contact Us"; // Page heading text
 </div>
 
 
-<?php include 'footer.php';?>
+<?php include 'includes/footer.php';?>

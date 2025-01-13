@@ -1,4 +1,4 @@
-<?php include '../header.php'; // Including header ?>
+<?php include 'includes/header.php'; // Including header ?>
 <div class="treatment-content my-5">
   <div class="container">
     <div class="row">
@@ -56,6 +56,6 @@
   </div>
 </div>
 
-<?php include '../footer.php'; // Including footer ?>
+<?php include 'includes/footer.php'; // Including footer ?>
 
 

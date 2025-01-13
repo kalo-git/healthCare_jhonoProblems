@@ -1,4 +1,4 @@
-<?php include '../header.php'; ?>
+<?php include 'includes/header.php'; ?>
 <div class="container">
     <div class="row">
         <div class="col-12 col-sm-12">
@@ -56,4 +56,4 @@
                     <p>Payments through Western Money Union, Money Gram, and Express Money with the name <strong>Suhel Jain</strong> are accepted.</p>
                 </div>
             </div>
-<?php include '../footer.php'; ?>
+<?php include 'includes/footer.php'; ?>

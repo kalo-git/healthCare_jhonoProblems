@@ -1,5 +1,5 @@
 <?php
-include 'header.php'; // Including header
+include 'includes/header.php'; // Including header
 ?>
 
 <div id="siteContent" class="page-heading animate__animated animate__fadeInDown" style="background-image: url('./assets/images/ayurved.jpg');
@@ -77,5 +77,5 @@ include 'header.php'; // Including header
 </div>
 
 <?php
-include 'footer.php'; // Including footer
+include 'includes/footer.php'; // Including footer
 ?>
